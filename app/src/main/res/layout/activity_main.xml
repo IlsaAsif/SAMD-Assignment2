@@ -20,7 +20,7 @@
        <TextView
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
-           android:text="Digital pro"
+           android:text="Bing"
            android:textSize="30sp"
            android:textAlignment="center"
            app:layout_constraintBottom_toBottomOf="parent"
@@ -34,7 +34,7 @@
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
            android:textAlignment="center"
-           android:text="okay"/>
+           android:text="searching"/>
        <TextView
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
